@@ -1,4 +1,4 @@
-<h3>Data Visualization Dashboard</h3>
+<h2>Data Visualization Dashboard</h2>
 This project implements a data visualization dashboard using Java, Spring Boot for the backend and React.js for the frontend. The dashboard utilizes Chart.js for interactive charts and visualizations. It includes features to filter and visualize data from Data.csv, offering insights through various metrics such as Intensity, Likelihood, Relevance, Year, Country, Topics, Region, and City.
 
 Filters:
